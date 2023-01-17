@@ -34,5 +34,6 @@ export default function Convertor() {
         <div className="result">{color}</div>
       </div>
     </div>
+
   );
 }
